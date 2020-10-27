@@ -48,6 +48,7 @@ int mysum(int a, int b)
  */
 int newfunc(int a)
 {
+    // TODO #3 edit newfunc
 
 }
 /**
