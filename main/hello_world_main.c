@@ -23,6 +23,10 @@
 #define CHIP_NAME "ESP32-S2 Beta"
 #endif
 
+/**
+ * @brief Main func
+ * 
+ */
 void app_main(void)
 {
     printf("Hello world!\n");
