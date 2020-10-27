@@ -26,7 +26,7 @@
 /**
  * @brief sum func
  * 
- * This is sum func
+ * This is sum func of int args
  * 
  * @param a 
  * @param b 
@@ -34,6 +34,7 @@
  */
 int mysum(int a, int b)
 {
+    // TODO: #1 Need to add argument check
     return a + b;
 }
 
