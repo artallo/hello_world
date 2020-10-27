@@ -1,6 +1,6 @@
 /**
  * @file hello_world_main.c
- * @author your name (you@domain.com)
+ * @author Art (you@domain.com)
  * @brief 
  * @version 0.1
  * @date 2020-10-27
@@ -24,8 +24,23 @@
 #endif
 
 /**
+ * @brief sum func
+ * 
+ * This is sum func
+ * 
+ * @param a 
+ * @param b 
+ * @return int 
+ */
+int mysum(int a, int b)
+{
+    return a + b;
+}
+
+/**
  * @brief Main func
  * This is main() func
+ * New info
  * 
  */
 void app_main(void)
