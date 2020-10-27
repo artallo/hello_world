@@ -41,6 +41,16 @@ int mysum(int a, int b)
 }
 
 /**
+ * @brief this is newfunc
+ * 
+ * @param a 
+ * @return int 
+ */
+int newfunc(int a)
+{
+
+}
+/**
  * @brief Main func
  * This is main() func
  * New info
