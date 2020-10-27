@@ -25,6 +25,7 @@
 
 /**
  * @brief Main func
+ * This is main() func
  * 
  */
 void app_main(void)
